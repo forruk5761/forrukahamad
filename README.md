@@ -1,6 +1,7 @@
+![Software Quality Assurance Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, I am Forruk Ahamad
 #### Software Quality Assurance Engineer
-![Software Quality Assurance Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 My Name is Forruk Ahamad. I was an employee of Golden Harvest Infotech Limited. I am a graduate Of City University in Computer Science and Engineering.
 
